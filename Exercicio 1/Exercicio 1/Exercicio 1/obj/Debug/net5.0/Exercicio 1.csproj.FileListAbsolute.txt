@@ -1,0 +1,16 @@
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\bin\Debug\net5.0\Exercicio 1.exe
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\bin\Debug\net5.0\Exercicio 1.deps.json
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\bin\Debug\net5.0\Exercicio 1.runtimeconfig.json
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\bin\Debug\net5.0\Exercicio 1.runtimeconfig.dev.json
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\bin\Debug\net5.0\Exercicio 1.dll
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\bin\Debug\net5.0\ref\Exercicio 1.dll
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\bin\Debug\net5.0\Exercicio 1.pdb
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\obj\Debug\net5.0\Exercicio 1.csproj.AssemblyReference.cache
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\obj\Debug\net5.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\obj\Debug\net5.0\Exercicio 1.AssemblyInfoInputs.cache
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\obj\Debug\net5.0\Exercicio 1.AssemblyInfo.cs
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\obj\Debug\net5.0\Exercicio 1.csproj.CoreCompileInputs.cache
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\obj\Debug\net5.0\Exercicio 1.dll
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\obj\Debug\net5.0\ref\Exercicio 1.dll
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\obj\Debug\net5.0\Exercicio 1.pdb
+D:\DEV\.Net\Izabela\Projeto 1\Exercicio 1\Exercicio 1\Exercicio 1\obj\Debug\net5.0\Exercicio 1.genruntimeconfig.cache
