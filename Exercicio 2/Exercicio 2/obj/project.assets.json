@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEV\\.Net\\Izabela\\Projeto 1\\Exercicio 2\\Exercicio 2\\Exercicio 2.csproj",
-      "projectName": "Exercicio 2",
-      "projectPath": "D:\\DEV\\.Net\\Izabela\\Projeto 1\\Exercicio 2\\Exercicio 2\\Exercicio 2.csproj",
+      "projectUniqueName": "D:\\DEV\\.Net\\Izabela\\Projeto 1\\Exercicio 2\\Exercicio 2\\Menu de Exercicios.csproj",
+      "projectName": "Menu de Exercicios",
+      "projectPath": "D:\\DEV\\.Net\\Izabela\\Projeto 1\\Exercicio 2\\Exercicio 2\\Menu de Exercicios.csproj",
       "packagesPath": "C:\\Users\\Gamers\\.nuget\\packages\\",
       "outputPath": "D:\\DEV\\.Net\\Izabela\\Projeto 1\\Exercicio 2\\Exercicio 2\\obj\\",
       "projectStyle": "PackageReference",
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

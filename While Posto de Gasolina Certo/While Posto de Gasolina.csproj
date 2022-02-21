@@ -1,0 +1,10 @@
+
+	<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>While_Posto_de_Gasolina_Certo</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exercicio_2
+namespace If_e_Else
 {
     class Program
     {
